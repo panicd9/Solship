@@ -1,4 +1,9 @@
-# Solship - fully decentralized SVM Battleship game
+# **Solship - fully decentralized SVM Battleship game**
+
+## **Demo**
+- https://docsend.com/v/knk5k/solship-demo
+---
+
 
 In web2 making Battleship game is trivial, but in web3 where everything on blockchain is public, it can be challenging. Here we decided to use commitment schemes and Merkle proofs to hide ship positions.
 
