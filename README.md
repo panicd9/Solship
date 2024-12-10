@@ -1,7 +1,7 @@
 # **Solship - fully decentralized SVM Battleship game**
 
 ## **Demo**
-- https://docsend.com/v/knk5k/solship-demo
+- https://docsend.com/view/zsv7irecxjm5fv9c
 ---
 
 
